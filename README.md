@@ -4,7 +4,7 @@
 Your agents, chats and files stay on your PC. Talk to your agents from the desktop app or from
 your phone, one at a time or as a group.
 
-**Download:** [KoiAgents-Setup-0.1.0.exe]($DOWNLOAD_LINK) (about 450 MB)
+**Download:** [KoiAgents-Setup-0.1.0.exe](https://github.com/rollingdellsw/koi-agents/releases/tag/v0.1.0) (about 450 MB)
 
 ![Koi Agents home page](images/desktop-app-home-page.png)
 
