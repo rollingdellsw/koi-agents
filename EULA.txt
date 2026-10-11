@@ -1,0 +1,129 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Software: Koi(TM) Agents (the "Software")
+Author:   Rollingdell Software Service, LLC (the "Licensor")
+
+IMPORTANT - READ CAREFULLY: This End User License Agreement ("Agreement") is a
+legal agreement between you (either an individual or a single entity) and the
+Licensor. By installing, copying, or otherwise using the Software, you agree to
+be bound by the terms of this Agreement. If you do not agree, do not install or
+use the Software.
+
+1. DEFINITIONS
+
+"Software" means the Koi Agents desktop application, the launcher, the bundled
+Linux machine image and payload (including the agent runtime, web user
+interface, remote-access components and gateway), skills, scripts,
+documentation, and associated files provided in this distribution package.
+
+"Agent" means an automated, AI-driven process run by the Software on your
+behalf.
+
+2. LICENSE GRANT
+
+The Licensor grants you a revocable, non-exclusive, non-transferable license to
+install and use the Software on a computer you own or control, subject to a
+valid license (trial or paid).
+
+All use of the Software requires a license. A free trial may be offered; when
+it ends, continued use requires a paid subscription. One subscription may be
+activated on a limited number of devices as described at purchase.
+
+To purchase: visit https://www.rollingdellsw.com
+
+3. COMPONENT LICENSING EXCEPTIONS
+
+3.1 Skills (MIT License). Notwithstanding the terms of this Agreement, files
+located within the "skills/" directory of this distribution (including skill
+instructions, scripts, guardrails, and bundled MCP servers) are licensed under
+the MIT License. You may modify, redistribute, and use these specific files
+under the terms of the MIT License.
+
+3.2 Third-Party Components. The Software includes third-party software,
+including but not limited to Ubuntu Linux, Node.js, Redis, Squid, and other
+open-source components, each subject to its own license, as detailed in the
+NOTICE file included with this distribution. Nothing in this Agreement limits
+your rights under those licenses.
+
+3.3 Third-Party Services. The Software can connect to AI providers, email,
+calendar, storage, messaging and other online services that you choose to
+connect. Your use of those services is governed by their own terms, which you
+are responsible for following. Some optional connection methods (for example,
+using a consumer AI subscription through a third-party proxy such as
+CLIProxyAPI) may not be permitted by the provider's terms and could result in
+limits on or suspension of your account with that provider. The Licensor is not
+responsible for any third-party service, including its availability, cost or
+handling of your data.
+
+4. PROHIBITED USES (APPLIES TO CORE BINARIES)
+
+With the exception of the files detailed in Section 3.1, you may not:
+
+  1. Redistribute: sell, rent, lease, sublicense, or redistribute the Software
+     or any portion of it to third parties.
+  2. Reverse engineer: reverse engineer, decompile, disassemble, or attempt to
+     derive the source code of the binary portions of the Software, except as
+     explicitly permitted by applicable law.
+  3. Service bureau: use the Software to provide a hosted or managed service to
+     third parties (for example, selling "AI agents as a service").
+  4. Circumvention: remove, alter, or obscure any licensing, copyright, or other
+     proprietary notices, or bypass the license checks.
+
+5. AI AND AUTOMATION DISCLAIMER (SIGNIFICANT RISK)
+
+THE SOFTWARE USES ARTIFICIAL INTELLIGENCE TO ACT ON YOUR BEHALF.
+
+  1. No guarantee of correctness. Agents may produce incorrect results,
+     hallucinate information, or attempt unintended actions.
+  2. Actions. Depending on the skills and accounts you give them, Agents can
+     read and write files, run commands in the Software's Linux machine, browse
+     the web, and send or change data in connected accounts (for example, send
+     email or edit documents). Some actions require your approval; others, as
+     configured by you or by a skill, do not.
+  3. Scheduled and unattended work. Agents can run on a schedule, and from a
+     paired phone, while you are not watching. Such work consumes your AI
+     provider quota and may incur costs charged by your provider.
+  4. User responsibility. You are solely responsible for the skills you
+     install, the accounts and permissions you grant, and for reviewing all
+     actions, scripts, and outputs before approving or relying on them.
+  5. Remote access. If you turn on remote access, anyone holding your pairing
+     QR code or link can use your Agents. Keep it private and reset pairing if
+     it is exposed.
+
+6. DATA AND PRIVACY
+
+The Software stores your agents, conversations and files on your computer. The
+content you send to Agents is transmitted to the AI provider(s) you connect.
+The Software contacts the Licensor's licensing provider to validate your
+license, and, when remote access is on, a connection service to reach your
+paired phones; that traffic is encrypted end to end between your computer and
+your phone.
+
+7. OWNERSHIP
+
+The Software is licensed, not sold. The Licensor retains all ownership, title,
+copyright, and intellectual property rights in and to the Software, excluding
+the third-party components and the MIT-licensed skill files.
+
+8. TERMINATION
+
+This license ends automatically if you fail to comply with this Agreement or if
+your license or subscription ends. On termination you must stop using the
+Software. Sections 5, 7, 9 and 10 survive termination.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE
+FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF
+DATA, LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, UNAUTHORIZED ACCOUNT
+ACTIONS, CHARGES BY THIRD-PARTY SERVICES, OR OTHER PECUNIARY LOSS) ARISING OUT
+OF THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING ACTIONS TAKEN BY
+AGENTS, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES. IN NO EVENT SHALL THE LICENSOR'S LIABILITY EXCEED THE LICENSE FEE PAID,
+IF ANY.
+
+10. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
