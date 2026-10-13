@@ -1,10 +1,10 @@
-# Koi™ Agents 0.1.0 for Windows
+# Koi™ Agents for Windows
 
 **No cloud agents, yet you get AI agents working for you 24/7, on the PC you already own.**
 Your agents, chats and files stay on your PC. Talk to your agents from the desktop app or from
 your phone, one at a time or as a group.
 
-**Download:** [KoiAgents-Setup-0.1.0.exe](https://github.com/rollingdellsw/koi-agents/releases/tag/v0.1.0) (about 450 MB)
+**Download:** [KoiAgents-Setup-0.1.1.exe](https://github.com/rollingdellsw/koi-agents/releases/tag/v0.1.1) (about 750 MB)
 
 ![Koi Agents home page](images/desktop-app-home-page.png)
 
@@ -16,7 +16,7 @@ Gemini, Grok, Kimi…) or an API key.
 
 ## 1. Install
 
-1. Run **KoiAgents-Setup-0.1.0.exe**. If Windows says **"Windows protected your PC"**, click
+1. Run **KoiAgents-Setup-0.1.1.exe**. If Windows says **"Windows protected your PC"**, click
    **More info → Run anyway**.
 2. Accept the **License Agreement**.
 3. **Create the agents' account.** Pick a username (lowercase letters and numbers) and a
