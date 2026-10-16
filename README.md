@@ -4,7 +4,7 @@
 Your agents, chats and files stay on your PC. Talk to your agents from the desktop app or from
 your phone, one at a time or as a group.
 
-**Download:** [KoiAgents-Setup-0.1.1.exe](https://github.com/rollingdellsw/koi-agents/releases/tag/v0.1.1) (about 750 MB)
+**Download:** [KoiAgents-Setup-0.1.2.exe](https://github.com/rollingdellsw/koi-agents/releases/tag/v0.1.2) (about 800 MB)
 
 ![Koi Agents home page](images/desktop-app-home-page.png)
 
@@ -16,7 +16,7 @@ Gemini, Grok, Kimi…) or an API key.
 
 ## 1. Install
 
-1. Run **KoiAgents-Setup-0.1.1.exe**. If Windows says **"Windows protected your PC"**, click
+1. Run **KoiAgents-Setup-0.1.2.exe**. If Windows says **"Windows protected your PC"**, click
    **More info → Run anyway**.
 2. Accept the **License Agreement**.
 3. **Create the agents' account.** Pick a username (lowercase letters and numbers) and a
@@ -40,7 +40,7 @@ Gemini, Grok, Kimi…) or an API key.
    Tick **Make every agent use it**.
 
 3. **Connect your accounts (optional).** If you want your agents to read and work with your
-   email, calendar, files or messages, open **Settings → Accounts** and connect
+   email, calendar, files or messages, open **Settings → Connectors** and connect
    **Google Workspace**, **Microsoft 365** or **Slack** (Slack asks you to paste a token from
    your Slack app). Then choose which agents may use each account. You can also skip this: when an agent first needs an account, it asks you to
    connect it.
@@ -55,7 +55,9 @@ Gemini, Grok, Kimi…) or an API key.
 
 ## 3. Chat with your agents
 
-![Chats](images/desktop-app-sidebar.png)
+![Chats](images/session-ui-1.png)
+
+![Chats](images/session-ui-2.png)
 
 Your team: **lead-1** (your main helper), **researcher-1** (looks things up), **coder-1**
 (files and code), and **installer-1** (sets up skills).
